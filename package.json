@@ -4,7 +4,7 @@
     "description": "nodejs image demo",
     "author": "ikoza",
     "license": "MIT",
-    "main": "app.js",
+    "main": ". ./.app/myJavaScriptApp.js",
     "keywords": [
       "nodejs",
       "bootstrap",
