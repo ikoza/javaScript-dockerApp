@@ -1,0 +1,1 @@
+#This is firs java application that runs with docker container
